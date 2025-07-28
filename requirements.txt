@@ -1,3 +1,4 @@
+huggingface_hub==0.15.1
 sentence-transformers==2.2.2
 PyMuPDF==1.23.7
 scikit-learn==1.4.0
