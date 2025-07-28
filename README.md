@@ -78,7 +78,7 @@ It supports fast and CPU-efficient processing under the following constraints:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/persona-doc-intelligence.git
+git clone https://github.com/AJrelapse/Persona-Driven-Doc-Intelligence.git
 cd persona-doc-intelligence
 ```
 
@@ -125,13 +125,6 @@ docker run --rm -v $(pwd)/data:/app/data persona-doc-intelligence
 
 ---
 
-## Hackathon Constraints Satisfied
-
-- **Model size:** ~300MB
-- **Inference speed:** ~10–15s for 5 documents
-- **CPU-only**: No GPU dependencies
-- **No external APIs used**: Fully self-contained
-- **Sub-1GB image**: Lightweight Docker container
 
 ---
 
@@ -174,4 +167,5 @@ These are already included in the Docker image.
 ## Author
 
 **Ajay Anand**  
+
 Feel free to fork, star, and raise issues!
