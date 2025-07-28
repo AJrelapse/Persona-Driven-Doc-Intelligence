@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T21:02:23.660830"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Change flat forms to fillable (Acrobat Pro)",
+            "importance_rank": 1,
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill and Sign PDF Forms",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Validate all digital signatures",
+            "importance_rank": 3,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Note: You can right-click a signature field in the Signatures panel to do most signature-",
+            "importance_rank": 4,
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "section_title": "Open Acrobat, then select Try it now from the Try AI Assistant onboarding",
+            "importance_rank": 5,
+            "page_number": 10
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "You can change a flat form ta fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Interactive form Tcreate an interactive form, use the Prepare Forms tool.",
+            "page_number": 12
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms",
+            "page_number": 1
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Open the PDF for which you want tvalidate all digital signatures. 2. Once all the signatures are validated. The Signatures panel provides access tall digital signatures and their corresponding versions. Tcompare the previous versions, open the Signatures panel and then select the signature. However, enterprises may require employees tvalidate signatures without any manual intervention.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "related tasks, including adding, clearing, and validating signatures. For example, a government agency creates a form with signature fields and certifies it, allowing users tonly change form fields and sign the document. A certifying signature can only be applied if the PDF has nother signatures. These signatures can be visible or invisible, and a blue ribbon icon in the Signatures panel confirms a valid certifying signature.",
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Generative AI_2.pdf",
+            "refined_text": "card in the home view. Then select the files you want tadd and select Next from the upper right. 2. When the file is added, chat displays the number of files added. 3. You can enter your question or choose from suggested questions. You get generated responses. If you want tview the references of the generated responses, select the reference numbers next tthe responses. AI Assistant opens the sourc",
+            "page_number": 10
+        }
+    ]
+}
